@@ -1,0 +1,7 @@
+# Ignore all
+**
+
+# with the exception of
+!main.py
+!requirements.txt
+!Makefile

@@ -2,8 +2,6 @@
 
 ---
 
-![main workflows](https://github.com/hillel-i-python-pro-i-2022-08-26/homework__docker__bordovoy_yaroslav/actions/workflows/main-workflow.yml/badge.svg)
-
 ### Important Commands
 
 
